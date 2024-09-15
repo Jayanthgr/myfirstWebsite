@@ -1,2 +1,0 @@
-# myfirstWebsite
-My first website
